@@ -1,8 +1,8 @@
 ---
-title: "Christina Ladam, Ph.D."
+title: "Welcome!"
 ---
 
-image: headshot.jpg
+image:
 about:
 template: trestles
 image-shape: rounded

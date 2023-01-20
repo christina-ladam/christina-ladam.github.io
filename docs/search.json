@@ -9,8 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Christina Ladam, Ph.D.",
+    "title": "Welcome!",
     "section": "",
-    "text": "image: headshot.jpg about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
+    "text": "about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
   }
 ]
