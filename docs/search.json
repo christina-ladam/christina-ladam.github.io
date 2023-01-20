@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I study deliberation!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
+    "text": "image: about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Christina Ladam, Ph.D.",
+    "section": "",
+    "text": "---\ntitle: “Teaching”\n---\nThis is about my teaching!"
   }
 ]

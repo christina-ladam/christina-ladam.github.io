@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - teaching.qmd
+      
 format:
   html:
     theme: cosmo
