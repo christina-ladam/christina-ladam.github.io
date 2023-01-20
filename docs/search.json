@@ -11,13 +11,20 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "image: about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
+    "text": "Welcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Christina Ladam, Ph.D.",
+    "title": "Teaching",
     "section": "",
-    "text": "---\ntitle: “Teaching”\n---\nThis is about my teaching!"
+    "text": "I love to teach!"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "I talk to people a lot!"
   }
 ]
