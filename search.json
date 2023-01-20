@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study deliberation!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "I talk to people a lot!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I love to teach!"
+  }
+]
