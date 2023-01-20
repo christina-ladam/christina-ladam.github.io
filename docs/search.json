@@ -9,8 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "christina-ladam.github.io",
+    "title": "Christina Ladam, Ph.D.",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "image: headshot.jpg about: template: trestles image-shape: rounded image-width: 15em links: - text: Twitter href: https://twitter.com/ChristinaLadam - text: Email href: mailto:cladam@unr.edu\n---\nWelcome! I am an assistant professor in the political science department at the University of Nevada, Reno."
   }
 ]

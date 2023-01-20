@@ -1,11 +1,18 @@
 ---
-title: "christina-ladam.github.io"
+title: "Christina Ladam, Ph.D."
 ---
 
-This is a Quarto website.
+image: headshot.jpg
+about:
+template: trestles
+image-shape: rounded
+image-width: 15em
+links:
+ - text: Twitter
+href: https://twitter.com/ChristinaLadam
+ - text: Email
+href: mailto:cladam\@unr.edu
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+\-\--
 
-```{r}
-1 + 1
-```
+Welcome! I am an assistant professor in the political science department at the University of Nevada, Reno.
