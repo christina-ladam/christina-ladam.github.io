@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Research",
-    "section": "",
-    "text": "I study deliberation!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -19,6 +12,13 @@
     "title": "Media",
     "section": "",
     "text": "I talk to people a lot!"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study deliberation!"
   },
   {
     "objectID": "teaching.html",
