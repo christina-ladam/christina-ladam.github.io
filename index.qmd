@@ -1,17 +1,17 @@
 ---
-title: "Welcome!"
+title: "Contact Me:"
 about: 
   image: headshot.jpg
   template: trestles
   image-shape: round
   image-width: 10em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ChristinaLadam
     - icon: envelope
       text: Email
       href: mailto:cladam@unr.edu
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ChristinaLadam
 ---
 
 ## **Welcome!**
@@ -26,6 +26,8 @@ I am Associate Organizer of the [Junior Americanist Workshop Series (JAWS)](http
 
 ## **Education**
 
--   Ph.D., Political Science, University of Colorado, 2019
+-   PhD, Political Science, University of Colorado, 2019
 
 -   MPA, University of New Hampshire, 2011
+
+-   BA, Political Science, Keene State University, 2009
