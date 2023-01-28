@@ -1,7 +1,7 @@
 ---
 title: "Contact Me:"
 about: 
-  image: images/nytimes.jpg
+  image: nytimes.jpg
   template: trestles
   image-shape: rounded
   image-width: 15em
