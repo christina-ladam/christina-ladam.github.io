@@ -2,15 +2,11 @@
 title: "Media"
 ---
 
-I have been featured in many local, state, and national media outlets.
-
-![](images/nytimes.JPG){fig-align="center" width="393"}
-
--   ["Don't Go Down the Rabbit Hole,"](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html) Charlie Warzel, *The New York Times*, February 18, 2021
-
-![](images/facethestate.JPG){fig-align="center"}\
+I have been featured in many local, state, and national media outlets.![](images/facethestate.JPG){fig-align="center"}
 
 -   ["Face the State: Primary Post Mortem,"](https://www.2news.com/features/face_the_state_transcripts/face-the-state-primary-post-mortem/video_27752f0a-1a99-52bb-a257-618c62b909a4.html) 2 News, June 23, 2022.
+
+-   ["Don't Go Down the Rabbit Hole,"](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html) Charlie Warzel, *The New York Times*, February 18, 2021
 
 -   ["Breaking Down the Influence of Women in Politics,"](https://www.kunr.org/politics-and-policy/2020-11-05/breaking-down-the-influence-of-women-in-politics) KUNR: Nevada Public Radio, November 5, 2020.
 
