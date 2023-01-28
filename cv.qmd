@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CV"
 ---
 
-# [[Download CV]{.underline}](https://github.com/christina-ladam/christina-ladam.github.io/raw/main/CV.pdf)
+# [[Download CV]{.underline}](https://github.com/christina-ladam/christina-ladam.github.io/raw/main/Ladam%20CV%2C%202023.pdf)
