@@ -4,7 +4,7 @@ about:
   image: nytimes.jpg
   template: trestles
   image-shape: rounded
-  image-width: 15em
+  image-width: 18em
   links:
     - icon: envelope
       text: Email
@@ -16,7 +16,12 @@ about:
 
 ## **Welcome!**
 
-I am an assistant professor in the political science department at the University of Nevada, Reno. I study American political behavior, with research interests in deliberation, political discussion, and political psychology. I have additional research interests in state and local politics, and women and politics. I also study political methodology, with specific interests in experiments and social network analysis. My work has been published in the *American Journal of Political Science*, the *Journal of Experimental Political Science*, and *PS: Political Science and Politics*.
+- Discussion Facilitator
+- Survey Researcher
+- Experiment facilitator
+- Consultant
+
+I am an assistant professor in the political science department at the University of Nevada, Reno. My research focuses on the ways people engage with politics and government, and how to improve the quality of that engagement. I study American political communication, focusing on deliberation, political discussion, and political psychology. I have additional research interests in state and local politics, and women and politics. I also study political methodology, with my experience and training focused on experiments and social network analysis. My work has been published in the *American Journal of Political Science*, the *Journal of Experimental Political Science*, and *PS: Political Science and Politics*.
 
 I am co-director of the [Nevada Election Survey Project](nvelectionsurvey.com), which conducts original surveys of Nevadans about their political and policy views.
 
