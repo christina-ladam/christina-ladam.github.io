@@ -9,9 +9,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:cladam@unr.edu
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ChristinaLadam
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com/in/christina-ladam-phd-619760284
 ---
 
 ## **Welcome!**
